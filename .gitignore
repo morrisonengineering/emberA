@@ -1,0 +1,3 @@
+# Files to ignore
+node/config/datasources-local
+node/node_modules/oracle
